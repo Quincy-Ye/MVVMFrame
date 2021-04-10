@@ -1,0 +1,6 @@
+include ':toolskit:swipeback'
+include ':toolskit'
+include ':frame'
+include ':app'
+
+rootProject.name = "MVVM Frame"

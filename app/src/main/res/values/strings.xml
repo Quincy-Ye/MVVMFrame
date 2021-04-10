@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVM Frame</string>
+    <string name="welcome">Hello QCoder!</string>
+</resources>
